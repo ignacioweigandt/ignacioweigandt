@@ -111,11 +111,7 @@
 </div>
 </details>
 
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-<img src = "https://raw.githubusercontent.com/ignacioweigandt/ignacioweigandt/output/github-contribution-grid-snake-dark.svg)"/>
-</p>
+
 
 
 <!--
